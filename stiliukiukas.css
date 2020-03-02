@@ -13,10 +13,6 @@ h2{
     text-align: center;
     font-family: "Verdana";
 }
-.gray{
-    color: white;
-    font-size: 10px;
-}
 .fonas{
     background-color: black;
     width: 1000px; 
@@ -114,9 +110,14 @@ h2{
 .Apie{
     text-decoration: none;
     float: right;
+}
 .Patreon{
     background-color: rgb(15, 117, 177);
     border-radius: 25px;
     width: 800px;
     margin: auto;
+}
+.gray{
+    color: white;
+    font-size: 10px;
 }
