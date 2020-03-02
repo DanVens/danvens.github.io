@@ -36,6 +36,16 @@ h2{
     font-family: "Arial Black";
     margin: auto;
 }
+.ul{
+    font: arial;
+}
+.pony{
+    float: right;
+}
+.about{
+    font-size:30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 .image{
     max-width: 140px;
     max-height: 200px;
@@ -97,6 +107,9 @@ h2{
     text-decoration: none;
     float: left;
 }
+.Apie{
+    text-decoration: none;
+    float: right;
 .Patreon{
     background-color: rgb(15, 117, 177);
     border-radius: 25px;
