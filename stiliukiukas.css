@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(128, 50, 102);
+}
+h1{
+    background-color: rgb(255, 166, 181);
+    color:black;
+    font-family: "Arial Black", sans-serif;
+    text-align: center;
+    padding:0;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    font-family: "Verdana";
+}
+.fonas{
+    background-color: black;
+    width: 1000px; 
+    margin: auto;
+}
+.vislangas{
+    border: white;
+    border-width: 2px;
+    height: 100%;
+
+
+}
+.langas1{
+    border: white;
+    border-width: 2px;
+    background-color: black;
+    font-size: 30px;
+    color:white;
+    height:100px;
+    width: 200px;
+    font-family: "Arial Black";
+    margin: auto;
+}
+.image{
+    max-width: 140px;
+    max-height: 200px;
+    float: left;
+    left: 0px;
+}
+.image2{
+    height: 800px;
+    position: absolute;
+    left: 0px;
+}
+.image3{
+    height: 800px;
+    position: absolute;
+    right: 0px; 
+}
+.imagearticle1{
+    width: 300px;
+    float: left;
+}
+.imagearticle2{
+    width: 500px;
+}
+.imagearticle3{
+    height: 300px;
+    float: right;
+}
+.patreonimage{
+    width: 400px;
+    float: right;
+    border-radius: 25px;
+}
+.tekstas{
+    font-family: "Arial Black";
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: black;
+    width: 600px; 
+    margin: auto; 
+    min-height: 180px;
+}
+.tekstas1{
+    font-family: "Arial Black";
+    font-size: 25px;
+    text-decoration: none;
+   
+}
+.tekstas2{
+    font-family: "Arial Black";
+    font-size: 15px;
+    text-decoration: none;
+}
+.tekstas3{
+    font-family: "Verdana"; 
+    text-align: center;
+}
+.Atgal{
+    text-decoration: none;
+    float: left;
+}
+.Patreon{
+    background-color: rgb(15, 117, 177);
+    border-radius: 25px;
+    width: 800px;
+    margin: auto;
+}
