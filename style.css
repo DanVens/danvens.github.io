@@ -1,0 +1,23 @@
+h1{
+    color :darkgreen;
+}
+body{
+    background-color: darkred;
+}
+title{
+    color: darkgreen;
+}
+.header
+{
+text-align:center;
+border:10px #317604;
+}
+.remas
+{
+    border:10px #317604;
+}
+.svarbuspabrezimai
+{
+    text-decoration: underline;
+    text-align:center;
+}
